@@ -1,0 +1,12 @@
+C:\Users\maditya\source\repos\ProductApp\ProductApp\bin\Debug\netcoreapp2.1\ProductApp.deps.json
+C:\Users\maditya\source\repos\ProductApp\ProductApp\bin\Debug\netcoreapp2.1\ProductApp.runtimeconfig.json
+C:\Users\maditya\source\repos\ProductApp\ProductApp\bin\Debug\netcoreapp2.1\ProductApp.runtimeconfig.dev.json
+C:\Users\maditya\source\repos\ProductApp\ProductApp\bin\Debug\netcoreapp2.1\ProductApp.dll
+C:\Users\maditya\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.csprojAssemblyReference.cache
+C:\Users\maditya\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\maditya\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.AssemblyInfoInputs.cache
+C:\Users\maditya\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.AssemblyInfo.cs
+C:\Users\maditya\source\repos\ProductApp\ProductApp\bin\Debug\netcoreapp2.1\ProductApp.pdb
+C:\Users\maditya\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.dll
+C:\Users\maditya\source\repos\ProductApp\ProductApp\obj\Debug\netcoreapp2.1\ProductApp.pdb
+C:\Users\maditya\source\repos\ProductApp\ProductApp\bin\Debug\netcoreapp2.1\ProductApp.dll.config
