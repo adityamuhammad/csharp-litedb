@@ -24,5 +24,10 @@ namespace ProductApp.Repository
             var products = _context.GetInstance().GetCollection<Product>("products");
             return products.Include(x => x.Items).FindAll();
         }
+        public void Create(Product handphone)
+        {
+            var product = _context.GetInstance().GetCollection<Product>("products");
+            product.Insert(handphone);
+        }
     }
 }
